@@ -1,6 +1,7 @@
+body {
 
-
-
+    font-family: 'poppins',sans-serif ;
+}
 
 header{background-color: cornflowerblue;
     
@@ -17,16 +18,16 @@ header{background-color: cornflowerblue;
     
     .cabecalho{
 
+     background-color: darkcyan;
+    color:black;
+    display:flex;
+    justify-content: space-around;
 
-
-     background-color: darkcyan
-    color:black
-    display
     }
-
 
 .cabecalho-lista-item {
 
+    display: inline-block;
 
 
 
